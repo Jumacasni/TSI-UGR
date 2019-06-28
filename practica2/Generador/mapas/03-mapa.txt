@@ -1,0 +1,19 @@
+Dominio:Ejercicio3
+
+Problema:Problema3
+
+numero de zonas:25
+
+V -> z1[player1-Player][Piedra]=1=z6[][Piedra]=1=z11[rosa1-Rosa][Piedra]=1=z16[princesa1-Princesa][Bosque]=1=z21[principe1-Principe][Bosque]
+V -> z2[zapatillas1-Zapatilla][Agua]=1=z7[][Piedra]
+V -> z3[manzana1-Manzana][Bosque]=1=z8[][Bosque]
+V -> z4[manzana2-Manzana][Bosque]=1=z9[bruja1-Bruja][Bosque]=1=z14[][Bosque]=1=z19[bikini2-Bikini][Bosque]
+V -> z5[][Bosque]=1=z10[][Bosque]=1=z15[oscar1-Oscar][Bosque]=1=z20[profesor1-Profesor][Bosque]=1=z25[][Bosque]
+V -> z13[][Piedra]=1=z18[leonardo1-Leonardo][Bosque]=1=z23[][Bosque]
+V -> z17[][Bosque]=1=z22[algoritmo1-Algoritmo][Bosque]
+
+H -> z6[][Piedra]=1=z7[][Piedra]=1=z8[][Bosque]
+H -> z11[rosa1-Rosa][Piedra]=1=z12[bikini1-Bikini][Piedra]=1=z13[][Piedra]=1=z14[][Bosque]
+H -> z17[][Bosque]=1=z18[leonardo1-Leonardo][Bosque]
+H -> z19[bikini2-Bikini][Bosque]=1=z20[profesor1-Profesor][Bosque]
+H -> z21[principe1-Principe][Bosque]=1=z22[algoritmo1-Algoritmo][Bosque]=1=z23[][Bosque]=1=z24[oro1-Oro][Bosque]=1=z25[][Bosque]

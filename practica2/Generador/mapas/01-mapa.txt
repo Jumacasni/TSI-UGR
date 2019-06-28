@@ -1,0 +1,15 @@
+numero de zonas:25
+
+V -> z1[player1-Player] z6[] z11[rosa1-Rosa] z16[princesa1-Princesa] z21[principe1-Principe]
+V -> z2[] z7[]
+V -> z3[manzana1-Manzana] z8[]
+V -> z4[] z9[bruja1-Bruja] z14[] z19[]
+V -> z5[] z10[] z15[oscar1-Oscar] z20[profesor1-Profesor] z25[]
+V -> z13[] z18[leonardo1-Leonardo] z23[]
+V -> z17[] z22[algoritmo1-Algoritmo]
+
+H -> z6[] z7[] z8[]
+H -> z11[rosa1-Rosa] z12[] z13[] z14[]
+H -> z17[] z18[leonardo1-Leonardo]
+H -> z19[] z20[profesor1-Profesor]
+H -> z21[principe1-Principe] z22[algoritmo1-Algoritmo] z23[] z24[oro1-Oro] z25[]
