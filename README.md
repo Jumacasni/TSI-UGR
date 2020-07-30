@@ -11,6 +11,6 @@ Desarrollo de un agente basado en búsqueda heurística para el entorno GVGAI
 
 Planificación clásica con metric FF
 
-## Práctica 3
+### Práctica 3
 
 Planificación HTN
